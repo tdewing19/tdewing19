@@ -5,7 +5,7 @@ I'm a statistics and data science major at UCLA.
 - 🔭 I’m currently working on: finishing up my degree!
 - 🔬 My top skills are Python, R, SQL, and Tableau.
 - 🌱 I’m currently learning: geospatial analysis!
-- 📫 How to reach me: **[tristandewing@gmail.com]**(mailto:tristandewing@gmail.com)**
+- 📫 How to reach me: **[tristandewing@gmail.com](mailto:tristandewing@gmail.com)**
 
 ## 🔧 Technologies & Tools
 
