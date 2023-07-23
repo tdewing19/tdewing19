@@ -20,4 +20,9 @@ I'm a statistics and data science major at UCLA.
 ![](https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white)
 ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/tdewing19">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdewing19&hide=jupyter%20notebook&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116&layout=compact" alt="Tristan's GitHub Stats" />
+</a>
 
