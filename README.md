@@ -43,6 +43,6 @@ I'm a fourth year at UCLA finishing up my B.S. in statistics and data science. I
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=tdewing19&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Tristan's GitHub Stats" />
 </a>
 <a href="https://github.com/tdewing19">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdewing19&hide=jupyter%20notebook&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116&layout=compact" alt="Tristan's GitHub Stats" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdewing19&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116&layout=compact" alt="Tristan's GitHub Stats" />
 </a>
 
