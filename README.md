@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm Tristan</h2>
 
-I'm a fourth year at UCLA finishing up my B.S. in statistics and data science. I am primarily interested in using data analytics, data science, and machine learning to drive business insights and decisions, and have also been involved in researching cutting-edge deep learning techniques such as natural language processing and reinforcement learning.
+I am a fourth year at UCLA finishing up my B.S. in statistics and data science. I am primarily interested in using data analytics, data science, and machine learning to drive business insights and decisions, and have also been involved in researching advanced machine learning and deep learning techniques such as natural language processing (NLP) and reinforcement learning (RL).
 
 - 🔭 I’m currently a data science consultant for the UCLA Library providing statistical consulting and data-based solutions to Ph.D. and Masters researchers to improve research and project outcomes.
 - 🔬 My top skills are Python, R, SQL, and Tableau.
