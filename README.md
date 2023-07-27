@@ -7,6 +7,8 @@ I'm a fourth year at UCLA finishing up my B.S. in statistics and data science. I
 - 🌱 I’m currently learning: geospatial analysis and time series analysis!
 - 📫 How to reach me: **[Email](mailto:tristandewing@gmail.com), [LinkedIn](https://www.linkedin.com/in/tristan-dewing)**
 
+![](Photos/UCLA.png)
+
 ## 🔧 Technologies & Tools
 
 **Languages:**
