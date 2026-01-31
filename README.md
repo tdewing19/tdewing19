@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm Tristan</h2>
 
-I am a data science consultant primarily interested in using data analytics, data science, and machine learning to drive business insights and decisions, and have also previously been involved in researching advanced machine learning and deep learning techniques such as natural language processing (NLP) and reinforcement learning (RL).
+I am a data science consultant primarily currently based in NYC interested in using data analytics, data science, and machine learning to drive business insights and decisions, and have also previously been involved in researching advanced machine learning and deep learning techniques such as natural language processing (NLP) and reinforcement learning (RL).
 
 - 🔬 My top skills are Python, R, SQL, and Tableau.
 - 🌱 I’m currently learning: marketing mix modeling!
